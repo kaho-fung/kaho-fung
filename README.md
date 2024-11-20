@@ -1,7 +1,8 @@
 ## About me
 - 👋 Hi, I’m @kaho-fung
 - 👀 I’m interested in cyber security and quantitative risk management
-- 💼 I'm a Cyber Risk Manager at [Vodafone](https://vodafone.com).
+- 💼 I'm a Cyber Risk Manager at [Vodafone](https://vodafone.com)
+- 🧑‍💻 My past life was a software engineer, that's why I code sometimes
 - 😄 Pronouns: He/ Him/ His
 
 <!---
